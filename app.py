@@ -41,7 +41,7 @@ if not tavily_api_key:
 try:
     # 3. Passamos a chave diretamente para o construtor do ChatOpenAI
     llm = ChatOpenAI(
-        model_name="gpt-4o",
+        model_name="gpt-3.5-turbo",
         temperature=0.5,
         api_key=openai_api_key # MUDANÇA AQUI
     )
