@@ -1,0 +1,11 @@
+# Diretórios de cache do Python
+__pycache__/
+
+# Arquivo de variáveis de ambiente (ex: .env contendo suas chaves)
+.env
+
+# Segredos do Streamlit (não vai para o GitHub)
+.streamlit/secrets.toml
+
+# Pasta do seu venv/virtualenv
+venv/
