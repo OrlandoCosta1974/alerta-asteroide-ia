@@ -139,7 +139,7 @@ Orlando Costa
 
 📧 orlando.trafegopago@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn: [Orlando Costa](https://www.linkedin.com/in/orlando-costa-862120324)
 
 yaml
 Copiar
