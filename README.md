@@ -137,6 +137,11 @@ Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para
 👤 Autor
 Orlando Costa
 
+## Demonstração ao vivo
+
+Teste a aplicação “Alerta Asteroide IA” neste link:  
+👉 https://alerta-asteroide-ia.streamlit.app
+
 📧 orlando.trafegopago@gmail.com
 
 🔗 LinkedIn: [Orlando Costa](https://www.linkedin.com/in/orlando-costa-862120324)
