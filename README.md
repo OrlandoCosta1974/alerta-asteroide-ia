@@ -146,16 +146,7 @@ Teste a aplicação “Alerta Asteroide IA” neste link:
 
 🔗 LinkedIn: [Orlando Costa](https://www.linkedin.com/in/orlando-costa-862120324)
 
-yaml
-Copiar
-Editar
 
-
----
-
-> **Próximos passos**:  
-> - Ajuste as seções de **Funcionalidades** e **Variáveis de ambiente** conforme suas implementações reais.  
-> - Atualize links (GitHub, LinkedIn) e versões de bibliotecas.  
 
 Qualquer dúvida é só falar! Estou à disposição para refinarmos juntos. 😊
 
